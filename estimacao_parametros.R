@@ -1,3 +1,5 @@
+## Parte dos códigos foram obtidos nesse site: https://www.statsandr.com/blog/covid-19-in-belgium/
+
 library('readxl')
 file.choose()
 
